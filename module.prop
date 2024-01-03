@@ -1,0 +1,6 @@
+id=replacesettings_module
+name=ReplaceSettings
+version=v1.0
+versionCode=1
+author=Vilem
+description=This module replaces the new settings with modified settings to allow connecting to wifi enterprise wpa3 without a certificate (Do not verify option)
